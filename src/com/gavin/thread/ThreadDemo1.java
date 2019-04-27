@@ -1,4 +1,4 @@
-package com.gavin.threading;
+package com.gavin.thread;
 
 public class ThreadDemo1 extends Thread{
 
